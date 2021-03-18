@@ -351,11 +351,34 @@
 //     document.write("Number is zero");
 // }
 
-vowels = ["a", "e", "i", "o", "u"];
-var char = prompt("Enter a character");
-if (vowels.includes(char))
-{
-    alert(true);
-} else {
-    alert(false);
-}
+// vowels = ["a", "e", "i", "o", "u"];
+// var char = prompt("Enter a character");
+// if (vowels.includes(char))
+// {
+//     alert(true);
+// } else {
+//     alert(false);
+// }
+
+
+// var password = "Password123";
+// var userp = prompt("Enter your password");
+// if (userp.length == 0){
+//     alert("Enter your password");
+// }
+// else {
+//     if (userp === password){
+//         alert("Your password is correct");
+//     }
+//     else {
+//         alert("Incorrect password");
+//     }
+// }
+// var greeting;
+// var hour = 13;
+// if (hour < 18) {
+// greeting = "Good day";}
+// else{
+// greeting = "Good evening";
+// }
+var time = prompt
