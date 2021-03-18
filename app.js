@@ -249,8 +249,6 @@
 // if("car" < "cat"){
 // alert("car is smaller than cat");
 
-
-
 // Marksheet
 
 // document.write("<h1>Marks Sheet</h1>");
@@ -297,7 +295,6 @@
 //     alert("Even")
 // } else {alert("odd")};
 
-
 //IF... Else
 // var number = prompt("Enter a character");
 // if (number.length === 1)
@@ -318,9 +315,6 @@
 //     alert("Enter a single character only");
 // }
 
-
-
-
 //
 
 // var integer = +prompt("Enter an integer");
@@ -332,11 +326,10 @@
 // {
 //     document.write(int2 + " is the largest ");
 // }
-// else 
+// else
 // {
 //     document.write("They both are equal");
 // }
-
 
 // var integer = +prompt("Enter an integer");
 // if(integer > 0)
@@ -346,7 +339,7 @@
 // {
 //     document.write(int2 + " is negative");
 // }
-// else 
+// else
 // {
 //     document.write("Number is zero");
 // }
@@ -359,7 +352,6 @@
 // } else {
 //     alert(false);
 // }
-
 
 // var password = "Password123";
 // var userp = prompt("Enter your password");
@@ -381,4 +373,15 @@
 // else{
 // greeting = "Good evening";
 // }
-var time = prompt
+// var time = +prompt("Enter time in 24 hours format");
+// if (time >= 0000 && time < 1200) {
+//   alert("Good morning");
+// } else if (time >= 1200 && time < 1700)
+// {
+//     alert("Good afternoon");
+// } else if (time >=1700 && time < 2100) {
+//     alert("Good evening");
+// } else if (time >= 2100 && time <= 2359) {
+//     alert("Good Night");
+// }
+
